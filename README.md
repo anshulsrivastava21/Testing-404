@@ -1,1 +1,2 @@
-# Testing-404
+# collisionAlgorithm
+Algorithm to detect collision between two objects
